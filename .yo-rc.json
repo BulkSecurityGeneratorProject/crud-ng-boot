@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "crudNgBoot",
+    "packageName": "id.ais.ng.boot",
+    "packageFolder": "id/ais/ng/boot",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "OWI2N2NjZGE1OTdhODk0MjdiNGI3ODc0ODgwYzg2NTVkYmFkZWJhNjNkNWJlYjZmODQzMGM1ZGFkNWUwYzM3YzkwYzI3NzQ5NmUxOTYwYThkZjEzOGI5NmFmMDc3MDI0NzY3ZjE1ZDhhYjRkNDI0M2RmYjBlMDMxMDg4YjU0M2Y="
+  },
+  "git-provider": "GitHub",
+  "git-company": "anggun-indra",
+  "repository-name": "crud-ng-boot"
+}
